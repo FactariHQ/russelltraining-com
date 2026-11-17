@@ -1,2 +1,3 @@
-# russelltraining-com
-Redirects russelltraining.com to https://natalierussll.training
+# russelltraining.com
+
+Redirects every path to https://natalierussell.training via GitHub Pages.
